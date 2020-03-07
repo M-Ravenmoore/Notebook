@@ -4,8 +4,8 @@ a Learning notebook compilation
 ## Table Of Contents
 
 1. [HTML](html-notes.md)
-1. [CSS](Css-notes.md)
-1. [JavaScript](Javascript-note-home.md)
+1. [CSS](css-notes.md)
+1. [JavaScript](javascript-notes-home.md)
 1. [Terminal](terminal.md)
 
 ## Cheet Sheet List
