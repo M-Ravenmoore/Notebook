@@ -5,12 +5,11 @@
 1. [Css Notes](css-notes.md)
 
 
-### - linking in looks like `<link href="css file link" type="text/css" rel="stylesheet" />`
+### - linking a css file into html looks like `<link href="css file link" type="text/css" rel="stylesheet" />`
 
 
 **Element tags** | **What it looks for**
 --------------|-------------
-
 `* {}` | universal selector apply changes to all elements in the document
 `tag {}` | type selector targets elements with this tag type
 `.'class' {}` | matches to `class=''` attribute defined behind the dot
@@ -24,4 +23,7 @@
 -------------------|------------------
 `!important` | at the end of a css rule makes it override any other conflicting rules, **NOT COMMON USE ANYMORE!!!!**
 `font-size {}` | changes the size of the font with in associated element useing a variaty of measurments including pixels(px) or point(pt)
-`color: ` | changes the color of the main object in an element
+`color: color` | changes the color of the main object in an element
+`background-color: color` | changes the background color of an element
+`float: left` | removes the object from normal flow and assigns it a justification ie left in this case
+

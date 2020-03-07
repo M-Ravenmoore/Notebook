@@ -1,11 +1,12 @@
-# Html
-## what it does and best practices
+# Html \& Markdown
+what it does and best practices
 
 
 ## Navigation
 [Home](README.md)
 
 [Cheetsheet](Html-Cheetsheet.md)
+[Cheetsheet](markdown-cheetsheet.md)
 
 
 ### what is HTML?
@@ -30,6 +31,15 @@
 - inline is like useing a comma
 - you can use shorthand in vscode to build blocks of html quickly 
     - such as : `header>img + h1 + h3` or `main +h2 > section > article*3 > img + article > h3 + p + p`
+
+
+
+# Markdown Notes 
+
+
+## Things to know about Markdown
+- markdown is "html light" or a light weight version of a mark up language
+- Great for things like notes! or blogs
 
 
 

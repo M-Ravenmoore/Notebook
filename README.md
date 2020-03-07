@@ -6,6 +6,7 @@ a Learning notebook compilation
 1. [HTML](html-notes.md)
 1. [CSS](Css-notes.md)
 1. [JavaScript](Javascript-note-home.md)
+1. [Terminal](terminal.md)
 
 ## Cheet Sheet List
 - [HTML CS](html-cheetsheet.md)
