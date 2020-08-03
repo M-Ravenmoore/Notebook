@@ -3,7 +3,9 @@
 ## Navigation
 1. [Home](README.md)
 1. [Functions](/Js-note-pages/function-notes.md)
-1. [Loops](/Js-note-pages/loop-notes.md) 
+1. [Loops](/Js-note-pages/loop-notes.md)
+1. [objects](/Js-note-pages/object-notes.md)
+
 
 [CheetSheet](/Js-note-pages/javascript-cheetsheet.md)
 

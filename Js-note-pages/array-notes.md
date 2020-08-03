@@ -8,4 +8,4 @@
 
 ## how arrays work
 
--
+>var newArray= [stuff, stuff, stuffity, stuff fuluf]

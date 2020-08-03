@@ -47,3 +47,18 @@ ternary opperator allows for compacting of syntax allows for choose between bina
 > condition ? expression; expression
 example: 
 >day == "monday" ? price -= 1.5 : price += 1.5;
+
+
+>input = [3, 8, 12, 14]
+function sumArray(input) {
+    var total = 0;
+    for (n = 0; n < input.length; n++) {
+        total = total + input[n] (side note you can also technically just do total += input[n])
+    }
+    return [total];
+}
+>function somefunction(takes_an_array)
+var input = [some, stuff]
+somefunction(input)
+
+see problem 4 and 5 in branching practice Link to come
