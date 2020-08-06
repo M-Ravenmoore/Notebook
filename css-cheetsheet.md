@@ -41,3 +41,4 @@ below is a list of some examples
 -----------|-----------------
 `inherit` | gives the property the inherited value of the elements parent.
 `rgb` / `rgba` | color code in Red Green Blue (rgba is for opacity)
+note tnotnsdlns
